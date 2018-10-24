@@ -6,6 +6,10 @@
 
 =================
 
+Build: [![Python]()
+
+=================
+
 
 Table of Contents
 =================
@@ -21,7 +25,15 @@ Table of Contents
   ---
 
 ## [Ch 1: Natural Computational Systems](01_Natural#ch-1-natural-comp)
-<kbd>
+
+## [Ch 2: Basic Programming with Python](01_Natural#ch-1-natural-comp)
+
+## [Ch 7: Solving problems with Genetic Algorithms](01_Natural#ch-1-natural-comp)
+
   - Weasel Program
-</kbd>
+  - The 8 Queens Puzzle
+  - Graph Coloring
+  - Magic Square
+  - Knapsack Problem
+
  
